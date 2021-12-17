@@ -1,4 +1,4 @@
-## Woven Artificial Profile (WARP): Fase Video Synthesis from Profile and Audio
+## Woven Artificial Profile (WARP): Face Video Synthesis from Profile and Audio
 
 Given a face image and text, WARP is a highly versatile model that can generate realistic talking videos with audio and lip synchronization. It's aim is to personalise indirect communication and make it a touch more interesting. There are several commercial and non-commercial uses. Entertainment and Broadcasting industries can, in a way, be revolutionized. Education can be made more interesting by bringing those history and science lessons to life. Marketing can be made more direct. Avatars and Virtual Assistants. like Siri and Alexa can now have a face. It also provides the opportunity for remote officials and general public to communicate across the internet with a face. The pipeline has 4 modules:
 
